@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+}
+section{
+    background-color: brown;
+}
+h1
+{
+    background-color: chocolate;
+    width: max-content;
+}
+h2{
+    background-color: blue;
+    width: max-content;
+}
+.name{
+    background-color:green;
+    border: solid;
+}
